@@ -1,0 +1,88 @@
+{
+    "SignUp": "Join Now",
+    "SignIn": "Login",
+    "NextButton": "Next",
+    "CancelButton": "Cancel",
+    "SignupPage": {
+      "usernamelabel": "Username",
+      "usernameplaceholder": "Username",
+      "emaillabel": "E-mail",
+      "emailplaceholder": "E-mail",
+      "passwordlabel": "Password",
+      "passwordplaceholder": "*******",
+      "passwordsubtext": "Use a long and unique password",
+      "usernamevalidate": {
+        "required": "You must fill in an username"
+      },
+      "emailvalidate": {
+        "required": "You must fill in an email",
+        "validemail": "You must enter a valid email",
+        "alreadyInUse": "That user already exists. Try logging in instead? If you have forgotten your password, you can create a new one by pressing 'Forgot password'",
+        "invalidEmail": "It doesn't look like a valid email",
+        "weakPassword": "Password was not secure enough. Try to make one that is a bit longer and consists of more words, for example."
+      },
+      "passwordvalidate": {
+        "required": "You must enter a password",
+        "lengthpassword": "The password must be at least 7 characters long"
+      },
+    },
+    "SignInPage": {
+      "usernamelabel": "Phone Number",
+      "usernameplaceholder": "Phone Number",
+      "passwordlabel": "Password",
+      "passwordplaceholder": "*******",
+      "passwordsubtext": "Use a long and unique password",
+      "usernamevalidate": {
+        "required": "You must fill in an username"
+      },
+      "passwordvalidate": {
+        "required": "You must enter a password",
+        "lengthpassword": "The password must be at least 8 characters long"
+      },
+    },
+    "SellerSignUpPage": {
+      "firstnamelabel": "First Name",
+      "firstnameplaceholder": "First Name",
+      "lastnamelabel": "Last Name",
+      "lastnameplaceholder": "Last Name",
+      "emaillabel": "Email Address",
+      "emailplaceholder": "Email Address",
+      "phonelabel": "Phone Number",
+      "phoneplaceholder": "Phone Number",
+      "adharlabel": "Aadhar Number",
+      "adharplaceholder": "Aadhar Number",
+      "passwordlabel": "Password",
+      "passwordplaceholder": "*******",
+      "cpasswordlabel": "Confirm Password",
+      "cpasswordplaceholder": "*******",
+      "passwordsubtext": "Use a long and unique password",
+      "firstnamevalidate": {
+        "required": "You must fill in an first name"
+      },
+      "lastnamevalidate": {
+        "required": "You must fill in an last name"
+      },
+      "emailvalidate": {
+        "required": "You must fill in an email",
+        "validemail": "You must enter a valid email",
+        "alreadyInUse": "That user already exists. Try logging in instead? If you have forgotten your password, you can create a new one by pressing 'Forgot password'",
+        "invalidEmail": "It doesn't look like a valid email",
+        "weakPassword": "Password was not secure enough. Try to make one that is a bit longer and consists of more words, for example."
+      },
+      "phonevalidate": {
+        "required": "You must fill in an phone number"
+      },
+      "adharvalidate": {
+        "required": "You must fill in an aadhar number"
+      },
+      "passwordvalidate": {
+        "required": "You must enter a password",
+        "lengthpassword": "The password must be at least 8 characters long"
+      },
+      "cpasswordvalidate": {
+        "required": "You must enter a confirm password",
+        "lengthpassword": "The confirm password must be at least 8 characters long",
+        "matchpassword": "The confirm password & password must be same"
+      },
+    },
+}

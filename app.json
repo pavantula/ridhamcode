@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "krushi",
+    "slug": "krushi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-vertical-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "assetBundlePatterns": [
+      "**/*",
+      "assests/*"
+    ],
+    "runtimeVersion": "1.0.0",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.app.krushi",
+      "buildNumber": "1"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-vertical-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.app.krushi",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "76efb625-81f9-4053-9d55-59a6f5577661"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/76efb625-81f9-4053-9d55-59a6f5577661"
+    },
+    "owner": "ridhamdeveloper"
+  }
+}
